@@ -1,0 +1,22 @@
+name: 'YG Multipurpose'
+description: 'YG Multipurpose is a Responsive Drupal 8 theme.'
+core_version_requirement: ^8 || ^9
+type: theme
+base theme: classy
+screenshot: yg_multipurpose.png
+
+regions:
+  header: Header
+  logo: Logo
+  primary_menu: Primary menu
+  content: Content
+  footer_col_1: Footer About us
+  footer_col_2: Footer Links
+
+libraries:
+  - yg_multipurpose/global-styling
+
+# Information added by Drupal.org packaging script on 2020-08-24
+version: '2.0.0'
+project: 'yg_multipurpose'
+datestamp: 1598280530

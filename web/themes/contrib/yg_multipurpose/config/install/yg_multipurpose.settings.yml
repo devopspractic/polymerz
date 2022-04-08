@@ -1,0 +1,30 @@
+
+#Theme Section
+main_color: '#49bbc0'
+
+#banner Section For User pages and Not found pages
+banner_image: 'themes/yg_multipurpose/top-banner.jpg'
+
+# Contact Section
+contact_header: 'Contact Us'
+company_phone_no: '+91 000 000 0000'
+company_email: 'info@domain.com'
+company_address: '1113 Your Address, State Name, Zip Code, City Name 1113 P.O. New York.'
+
+# Social login Section
+social_title: 'Social'
+facebook: 'https://www.facebook.com'
+twitter: 'https://www.twitter.com'
+linkedin: 'https://www.linkedin.com'
+pinterest: 'https://pinterest.com'
+dribbble: 'https://dribbble.com'
+instagram: 'https://instagram.com'
+youtube: 'https://youtube.com'
+
+
+
+
+
+
+
+
